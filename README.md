@@ -1,5 +1,39 @@
 # AO3
 
+How to use Git-
+Make a Github Account
+Create a Repository
+Create a File
+Make a Commit
+Connect Your Repository to Your Computer
+
+https://opensource.com/article/18/1/step-step-guide-git
+
+How to use Github- 
+Create a Github Account
+Create a Repositroy
+Create a Branch
+Make and Commit Changes
+Open a Pull Request
+Merge Your Pull Request
+
+https://guides.github.com/activities/hello-world/
+
+How to use Webstorm- 
+Open, check out, or create a project
+Get familiar with the WebStorm user interface
+Find your way through
+Complete your code
+Inspect and fix your code on the fly
+Refactor your code
+Run and debug your application
+Follow your code style standards
+Keep your source code under Version Control
+Customize your environment
+
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_customize_your_environment_editor
+
+
 
 
 Branch- When you create a repository with content on GitHub, GitHub creates the repository with a single branch. This first branch in the repository is the default branch. The default branch is the branch that GitHub displays when anyone visits your repository.
